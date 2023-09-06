@@ -27,5 +27,15 @@
   End Program
 
 
-
 */
+
+#include <iostream>
+using namespace std;
+
+int main(){
+  int a,b;
+  cin>>a>>b;
+  cout<<a+b<<endl;
+  return 0;
+}
+// use replit.com if you don't want to run in your system
